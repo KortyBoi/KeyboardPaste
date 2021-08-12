@@ -20,7 +20,7 @@ buttonVisible = true
 buttonVisible - Toggle the Paste Button
 
 ### Preview
-![Preview GIF](https://kortyboi.com/img/upload/VRChat_HkeMuiZt4f.png)
+![Preview GIF](https://mintlily.lgbt/img/upload/VRChat_HkeMuiZt4f.png)
 
 # Change Log
 ### v1.0.3
